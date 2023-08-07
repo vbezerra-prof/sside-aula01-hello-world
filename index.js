@@ -11,5 +11,5 @@ const subtracao = (a, b) => {
 let res_soma = soma(7, 11);
 console.log(res_soma);
 
-let res_sub = soma(10, 15);
+let res_sub = subtracao(10, 15);
 console.log(res_sub);
